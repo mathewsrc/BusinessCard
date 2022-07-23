@@ -23,3 +23,5 @@ Used android architecture components:
 - ViewModel - to store and manage UI related data in a lifecycle conscious way
 - Room - for local data persistence
 - Lifecycle - for using lifecycle-aware components
+
+![screenshot!](https://github.com/punkmic/BusinessCard/blob/master/app/src/main/res/raw/9068.jpg)
