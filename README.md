@@ -24,4 +24,5 @@ Used android architecture components:
 - Room - for local data persistence
 - Lifecycle - for using lifecycle-aware components
 
-![screenshot!](https://github.com/punkmic/BusinessCard/blob/master/app/src/main/res/raw/9068.jpg)
+![list!](https://github.com/punkmic/BusinessCard/blob/master/app/src/main/res/raw/9068.jpg)
+![form!](https://github.com/punkmic/BusinessCard/blob/master/app/src/main/res/raw/Screenshot_20220723-193443_BusinessCard%5B1968%5D.jpg)
