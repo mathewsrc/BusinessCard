@@ -25,4 +25,3 @@ Used android architecture components:
 - Lifecycle - for using lifecycle-aware components
 
 ![list!](https://github.com/punkmic/BusinessCard/blob/master/app/src/main/res/raw/9068.jpg)
-![form!](https://github.com/punkmic/BusinessCard/blob/master/app/src/main/res/raw/Screenshot_20220723-193443_BusinessCard%5B1968%5D.jpg)
