@@ -1,6 +1,6 @@
 # BusinessCard
 
-Aplicativo desenvolvido para o Bootcamp DIO-Santander 2022 Mobile
+### Aplicativo desenvolvido para o Bootcamp DIO-Santander 2022 Mobile
 
 Este aplicativo adota a arquitetura MVVM + kotlin e contém duas telas: a atividade principal contém uma lista de cartões de negócios e a segunda atividade contém um formulário para criação de novos cartões. 
 
@@ -11,8 +11,9 @@ Componentes de arquitetura do android utilizadas:
 - Room - para persistência de dados locais
 - Lifecycle - para uso de componentes com reconhecimento de ciclo de vida
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Application developed for Bootcamp DIO-Santander 2022 Mobile
+### Application developed for Bootcamp DIO-Santander 2022 Mobile
 
 This application adopts MVVM + kotlin architecture and contains two screens: the main activity contains a list of business cards and the second activity contains a form for creating new cards.
 
